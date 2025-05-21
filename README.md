@@ -29,7 +29,7 @@ The **Executive Sales Analytics Dashboard** provides visual insights into:
 
 ## 📂 Data Sources
 
-- Simulated AdventureWorks dataset (imported from Excel/CSV or SQL-based sources)
+- Simulated AdventureWorks dataset ( SQL-based sources)
 - Transformed and cleaned using Power Query Editor
 - Data model optimized with relationships and calculated columns
 
